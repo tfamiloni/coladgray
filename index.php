@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="favicon.png">
+
+    <title>www.familonitobi.com</title>
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <!-- <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'> -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/font-stylesheet.css">
+    <link href="css/mystyle.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+<body>
+  <!-- Nav tabs -->
+<div class="well well-lg no-margin header">
+  <h1 class="text-muted text-center text-white animated bounceIn pacifico fa-3x ">
+    <!-- <span class="text-cream">Familoni</span> tobi</h1> -->
+    <img src="resources/img/logomark.png" alt="" width="300px"><br>
+</div>
+<div class="navigation animated slideInDown front-content">
+  <div class="btn-group btn-group-justified" role="tablist" aria-label="Justified button group with nested dropdown"> 
+    <a href="#home" class="text-white hidden-xs btn btn-default in" role="tab" data-toggle="tab"><i class="fa fa-info-circle hidden-sm"> </i> &nbsp; About</a> 
+    <a name="work" href="#work" class="text-white hidden-xs btn btn-default" role="tab" data-toggle="tab"><i class="fa fa-wrench hidden-sm"> </i> &nbsp; work</a> 
+    <a href="#Faith" class="text-white hidden-xs btn btn-default" role="tab" data-toggle="tab"><i class="fa fa-tint hidden-sm">  </i> &nbsp; faith</a> 
+    <!-- <a href="#contact" class="hidden-xs btn btn-default" role="presentation" role="tab" data-toggle="tab"><i class="fa fa-map-marker"> </i> &nbsp; contact</a>  -->
+    <a href="#love" class="text-white hidden-xs btn btn-default" role="tab" data-toggle="tab"><i class="fa fa-heart hidden-sm">  </i> &nbsp; love & life</a> 
+    <a href="" target="_blank" class="text-white hidden-xs btn btn-default"><i class="fa fa-commenting hidden-sm">  </i> &nbsp; Blog</a> 
+    <div class="btn-group hidden-lg hidden-sm hidden-md" role="group"> 
+        <a class="btn btn-default text-cream" id="menu-trigger">menu &nbsp; <i class="fa fa-bars"></i></a> 
+
+
+          <div id="sidenav" class="lister collapse animated-fast slideInRight"> 
+            <a href="#home" class="list-group-item" role="tab" data-toggle="tab"><i class="fa fa-info-circle hidden-sm"> </i> &nbsp; About</a> 
+            <a name="work" href="#work" class="list-group-item" role="tab" data-toggle="tab"><i class="fa fa-wrench hidden-sm"> </i> &nbsp; work</a> 
+            <a href="#Faith" class="list-group-item" role="tab" data-toggle="tab"><i class="fa fa-tint hidden-sm">  </i> &nbsp; faith</a> 
+            <a href="#love" class="list-group-item" role="tab" data-toggle="tab"><i class="fa fa-heart hidden-sm">  </i> &nbsp; love & life</a> 
+            <a href="" target="_blank" class="list-group-item"><i class="fa fa-commenting hidden-sm">  </i> &nbsp; Blog</a>
+          </div>
+
+    </div> 
+  </div>
+</div>
+
+<div class="container-fluid">
+
+  <!-- Tab panes -->
+  <div class="row">
+    <div class="">
+
+      <div class="tab-content">
+
+
+
+      <!-- Section Home -->
+        <div role="tabpanel" class="tab-pane active" id="home">
+
+          <!-- <a class="hider hidden-xs text-white small pull-right" data-toggle="collapse" href="#" aria-expanded="true" aria-controls="front-content"  data-target=".front-content" title="See Video Clearly"> <i class="fa fa-eye"></i> &nbsp; Hide front content</a> -->
+          
+          <!-- <div class="cover-up front-content"></div> -->
+          <!-- <video autoplay loop class="fullscreen" src="resources/video/vid4.mp4">
+            <source>
+            Your Browser does not support this video
+          </video> -->
+
+
+          <div class="front-content">
+            <div class="col-md-3 col-md-offset-1 col-sm-5 spacer spacer-sm animated fadeIn"><br>
+            <img src="resources/img/me-1.jpg" alt="" width="100%" class="me-img">
+            </div>
+            <div class="animated fadeInUp col-md-6 col-md-offset-1 col-sm-7 text-white spacer spacer-sm">
+            
+                <h1 class="">Hi there, you found me!</h1><br>
+                <p class="lead text-mute"><span class="text-bold">Familoni Oluwatobi Oluwatayo</span> is my name. I might strike you as an easy-going fellow on the outside. I love creativity and The Wisdom behind it.</p>
+
+                <p class="lead text-mute">I am a graphic artist and a front-end developer with about 8 years of experience. I work mainly with HTML, CSS and Javascript, and CorelDraw, Adobe Illustrator & Photoshop for graphic art.</p>
+
+                <p class="lead text-mute"><a href="#love" class="fa-inverse" role="tab" data-toggle="tab">Happily married</a> with kids!</p>
+               <!--  <p>
+                  <a href="" class="btn btn-lg transparent btn-danger">Download Brochure</a>
+                  &nbsp;
+                  <a href="#services" class="btn btn-danger btn-lg" role="tab" data-toggle="tab">Learn More</a>
+                </p> -->
+            <div class="hidden-xs hidden-sm row animated bounceIn spacer spacer-xs">
+                  <div class="col-sm-12">
+                  
+                     <div class="row">
+                        <div class="col-xs-12">
+                          <p class="text-uppercase lp-5 small text-cream">Find me on social network</p><br>
+                        </div>
+                       <a  href="http://be.net/familonitobi" target="_blank" class="col-xs-6 col-md-3 col-sm-6">
+                        <!-- <p class="text-white">Our Services</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-behance fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                                          
+                       <a href="http://ng.linkedin.com/in/familonitayo" target="_blank" class="col-xs-6 col-md-3 col-sm-6">
+                        <!-- <p class="text-white">Sales Package</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                                          
+                       <a  href="http://twitter.com/familonitobi" target="_blank" class="col-xs-6 col-md-3 col-sm-6">
+                        <!-- <p class="text-white">Contact Us</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                                          
+                       <a href="mailto:familonitobi@gmail.com" target="_blank" class="col-xs-6 col-md-3 col-sm-6">
+                        <!-- <p class="text-white">Meet the Team</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                     </div>
+                </div>
+
+
+            </div>
+
+                
+            </div>
+
+            <div class="hidden-md hidden-lg animated bounceIn spacer spacer-xs">
+                  <div class="col-sm-12 col-md-6 col-md-offset-6">
+                  
+                     <div class="row">
+                        <div class="col-xs-12">
+                          <p class="text-uppercase lp-5 small text-cream">Find me on social network</p><br>
+                        </div>
+                       <a  href="http://be.net/familonitobi" target="_blank" data-toggle="tab" class="col-xs-6 col-md-3 col-sm-3">
+                        <!-- <p class="text-white">Our Services</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-behance fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                                          
+                       <a href="http://ng.linkedin.com/in/familonitayo" target="_blank" data-toggle="tab" class="col-xs-6 col-md-3 col-sm-3">
+                        <!-- <p class="text-white">Sales Package</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                                          
+                       <a  href="http://familoni.tobi" target="_blank" data-toggle="tab" class="col-xs-6 col-md-3 col-sm-3">
+                        <!-- <p class="text-white">Contact Us</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-skype fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                                          
+                       <a href="mailto:familonitobi@gmail.com" target="_blank" data-toggle="tab"  class="col-xs-6 col-md-3 col-sm-3">
+                        <!-- <p class="text-white">Meet the Team</p> -->
+                               <span class="fa-stack fa-3x circle">
+                                 <i class="fa fa-circle fa-stack-2x text-transparent"></i>
+                                 <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                               </span>
+                       </a>
+                     </div>
+                  </div>
+                
+                </div>
+          </div>
+
+        </div>
+        <!--  -->
+
+
+
+        <!-- Work Section -->
+        <div role="tabpanel" class="tab-pane " id="work">
+
+          <div class="container">
+            <!-- <div class="col-md-12">
+              <p></p>
+            </div> -->
+            <div class="col-md-8 col-md-offset-2">
+            <div class="row">
+                <div class="col-xs-12">
+                  <h5 class="text-uppercase lp-3 spacer spacer-xs">work experience</h5>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+              <div class="">
+                <div class="well text-mute transparent well-lg">
+                  <h3 class="text-cream">Insidify.com</h3>
+                  <hr>
+                  <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis blanditiis libero ad dignissimos id distinctio, omnis modi quas, culpa obcaecati accusamus minus. Inventore culpa totam error quos, ab debitis cum.</p>
+                  <p>
+                    <span class="text-white"><i class="fa fa-calendar"></i> May 2023 - Oct. 2015</span>
+                    <span class="pull-right">kvnve ernen</span>
+                  </p>
+                </div>
+                <div class="well text-mute transparent well-lg">
+                  <h3 class="text-cream">Center of Excellence in Software Engineering</h3>
+                  <hr>
+                  <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero nulla ducimus esse expedita reprehenderit, neque, cumque veniam saepe suscipit doloribus voluptates, quasi inventore perspiciatis soluta quo ex pariatur accusamus dignissimos.</p>
+                  <p>
+                    <span class="text-white"><i class="fa fa-calendar"></i> May 2023 - Oct. 2015</span>
+                    <span class="pull-right">kvnve ernen</span>
+                  </p>
+                </div>
+                <!-- <div class="well text-mute transparent well-lg">
+                  <h3 class="">kjnfwenf wfnwewei wfnwifw</h3>
+                  <hr>
+                  <p class="text-light">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus dolores quo inventore omnis culpa veniam facilis, exercitationem labore, quibusdam tempore nesciunt voluptates vero, nobis, corrupti laboriosam veritatis quae laudantium 
+                  <p>
+                    <span class="text-white"><i class="fa fa-calendar"></i> May 2023 - Oct. 2015</span>
+                    <span class="pull-right">kvnve ernen</span>
+                  </p>
+                </div>
+                <p class="text-right">
+                  <a class="text-cream" href="#">See all</a>
+                </p> -->
+              </div>
+
+
+              <div class="">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <h5 class="text-uppercase lp-3 spacer spacer-xs">recent projects</h5>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-cream">StaffStrength</h4>
+                      <br><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam, sapiente. Vero ad, corrupti consectetur repudiandae consequatur! Saepe praesentium ducimus reprehenderit, voluptatum quos, veniam accusantium pariatur tenetur asperiores minima natus molestias.</p>
+                      <hr class="hr-sm">
+                      <p class="small">
+                        <a href="https://staffstrength.com/">www.staffstrength.com</a>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-cream">Sellvy</h4>
+                      <br><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, odio deserunt. Saepe architecto, totam quisquam neque mollitia dolor ducimus voluptatibus, iste odit consequuntur quaerat aperiam rerum, ipsam sed praesentium laboriosam!</p>
+                      <hr class="hr-sm">
+                      <p class="small">
+                        <a href="https://sellvy.com/">www.sellvy.com</a>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-cream">Jubilee Church Manchester</h4>
+                      <br><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic doloremque facere laboriosam vero quidem. Iure nostrum blanditiis nisi, dignissimos a natus ipsum id, quam officiis! Quia, delectus pariatur natus sint.</p>
+                      <hr class="hr-sm">
+                      <p class="small">
+                        <a href="https://jubileechurchmanchester.com/">www.jubileechurchmanchester.com</a>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-cream">Beyond Credit</h4>
+                      <br><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo repellat repellendus, est vel. Animi iste, excepturi minus fugit qui obcaecati recusandae explicabo blanditiis, architecto et! Molestiae sed excepturi odit dicta.</p>
+                      <hr class="hr-sm">
+                      <p class="small">
+                        <a href="https://staffstrength.com/">www.staffstrength.com</a>
+                      </p>
+                    </div>
+                  </div>
+                  <div id="more-projects" class="collapse">
+                    
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-cream">Seamless Hiring</h4>
+                      <br><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Hic doloremque facere laboriosam vero quidem. Iure nostrum blanditiis nisi, dignissimos a natus ipsum id, quam officiis! Quia, delectus pariatur natus sint.</p>
+                      <hr class="hr-sm">
+                      <p class="small">
+                        <a href="https://jubileechurchmanchester.com/">www.jubileechurchmanchester.com</a>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-cream">CreekCity Portland</h4>
+                      <br><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo repellat repellendus, est vel. Animi iste, excepturi minus fugit qui obcaecati recusandae explicabo blanditiis, architecto et! Molestiae sed excepturi odit dicta.</p>
+                      <hr class="hr-sm">
+                      <p class="small">
+                        <a href="https://staffstrength.com/">www.staffstrength.com</a>
+                      </p>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-cream">AfricaPlus Partners</h4>
+                      <br><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo repellat repellendus, est vel. Animi iste, excepturi minus fugit qui obcaecati recusandae explicabo blanditiis, architecto et! Molestiae sed excepturi odit dicta.</p>
+                      <hr class="hr-sm">
+                      <p class="small">
+                        <a href="https://staffstrength.com/">www.staffstrength.com</a>
+                      </p>
+                    </div>
+                  </div>
+                  </div>
+                  <div class="col-xs-12">
+                    <p class="text-right">
+                      <a class="text-cream" href="#more-projects" data-target='more-projects'>See all</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <h5 class="text-uppercase lp-3 spacer spacer-xs">tools & languages</h5>
+                  </div>
+                  <div class="clearfix"></div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-center">React JS</h4>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-center">Angular JS</h4>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-center">HTML + CSS + JS</h4>
+                    </div>
+                  </div>
+                  <div class="col-sm-6">
+                    <div class="well transparent well-lg">
+                      <h4 class="text-center">Laravel PHP</h4>
+                    </div>
+                  </div>
+                  <div class="col-xs-12">
+                    <p class="text-right">
+                      <a class="text-cream" href="#">See all</a>
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4 hidden">
+              <div class="">
+                <div class="list-group">
+                  <a href="#" class="list-group-item transparent text-uppercase lp-3">work experience</a>
+                  <a href="#" class="list-group-item transparent text-uppercase lp-3">projects</a>
+                  <a href="#" class="list-group-item transparent text-uppercase lp-3">tools & languages</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+        <!--  -->
+
+
+
+        <!-- Faith Section -->
+        <div role="tabpanel" class="tab-pane" id="Faith">
+
+          <div class="text-center faith-well well transparent animated zoomIn">
+              <h1 class="fa-5x text-red xtra-bold">JESUS</h1>
+              <p class="text-uppercase leader">They looked to him & were not ashamed</p><br>
+              <small>Psalm 34:5 Paraphrased</small>
+          </div>
+          
+        </div>
+        <!--  -->
+
+
+
+
+        <!-- love Section -->
+        <div role="tabpanel" class="tab-pane no-pad" id="love">
+
+          <div class="well pic-scroll no-border no-border-radius">
+            <div class="owl-carousel">
+              <div>
+                <img src="resources/img/family/photo-1.jpg" height="250px" alt="">
+              </div>
+              <div>
+                <img src="resources/img/family/photo-1.jpg" height="250px" alt="">
+              </div>
+              <div>
+                <img src="resources/img/family/photo-1.jpg" height="250px" alt="">
+              </div>
+              <div>
+                <img src="resources/img/family/photo-1.jpg" height="250px" alt="">
+              </div>
+              <div>
+                <img src="resources/img/family/photo-1.jpg" height="250px" alt="">
+              </div>
+              <div>
+                <img src="resources/img/family/photo-1.jpg" height="250px" alt="">
+              </div>
+              <div>
+                <img src="resources/img/family/photo-1.jpg" height="250px" alt="">
+              </div>
+            </div>
+          </div>
+            <br>
+
+          <div class="container"><br>
+                <div class="row">
+                  <div class="col-md-4 col-md-offset-4">
+                    <p class="lead text-center text-mute">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus rerum aliquid ipsum ducimus consequatur laboriosam. Maiores quisquam explicabo fuga omnis, eum. Nobis voluptatem accusamus corrupti itaque beatae ipsam magni minus!</p>
+
+                    <br>
+
+                    <p class="lead  text-center text-mute">Lorem ipsum dolor sit amet, consectetur adipisicing elit. At iusto expedita deserunt numquam. Ipsum totam praesentium omnis suscipit. Illo delectus id quam nisi itaque distinctio, sunt explicabo tempore labore iste.</p>
+                  </div>
+                </div>
+          </div>
+
+          
+        </div>
+        <!--  -->
+
+
+
+
+        <!-- Contact Section -->
+        <!-- <div role="tabpanel" class="tab-pane" id="contact">
+          <div class="col-sm-6 animated fadeInLeft">
+            
+          </div>
+        </div> -->
+        <!--  -->
+
+
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<footer class="front-content">
+        <div class="container-fluid">
+
+            <div class="row">
+
+
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <ul class="list-unstyled footer-logo">
+                        <li>
+                            <!-- <h4 class="text-brandon" style="text-transform: capitalize;"><img width="150px" src="resources/img/idav-logo-sm-white.png" alt=""></h4> -->
+                            <hr>
+                            <p class="lead no-margin text-cream"><span class="hidden-xs">www.</span>familonitobi<span class="hidden-xs">.com</span></p>
+                            <!-- <small class="">© 2016. All Rights Reserved.</small> -->
+                        </li>
+                    </ul>
+
+
+                <div class="col-xs-10 col-xs-offset-1 text-center">
+                  
+                     <div class="row">
+                       <a  href="http://be.net/familonitobi" target="_blank" class="col-xs-3">
+                        <!-- <p class="text-white">Our Services</p> -->
+                               <span class="fa-stack">
+                                 <i class="fa fa-circle fa-stack-lg text-transparent"></i>
+                                 <i class="fa fa-behance fa-stack-1x text-mute"></i>
+                               </span>
+                       </a>
+                                          
+                       <a href="http://ng.linkedin.com/in/familonitayo" target="_blank" class="col-xs-3">
+                        <!-- <p class="text-white">Sales Package</p> -->
+                               <span class="fa-stack">
+                                 <i class="fa fa-circle fa-stack-lg text-transparent"></i>
+                                 <i class="fa fa-linkedin fa-stack-1x text-mute"></i>
+                               </span>
+                       </a>
+                                          
+                       <a  href="http://twitter.com/familonitobi" target="_blank" class="col-xs-3">
+                        <!-- <p class="text-white">Contact Us</p> -->
+                               <span class="fa-stack">
+                                 <i class="fa fa-circle fa-stack-lg text-transparent"></i>
+                                 <i class="fa fa-twitter fa-stack-1x text-mute"></i>
+                               </span>
+                       </a>
+                                          
+                       <a href="mailto:familonitobi@gmail.com" target="_blank" class="col-xs-3">
+                        <!-- <p class="text-white">Meet the Team</p> -->
+                               <span class="fa-stack">
+                                 <i class="fa fa-circle fa-stack-lg text-transparent"></i>
+                                 <i class="fa fa-envelope fa-stack-1x text-mute"></i>
+                               </span>
+                       </a>
+                     </div>
+                </div>
+
+                </div>
+
+
+                <!-- <div class="col-sm-6 col-xs-12">
+                   <h5 class="text-">Follow us on LinkedIn, Twitter, Facebook.</h5>
+               
+                           <a href="http://facebook.com" class="">
+                                   <span class="fa-stack fa-2x">
+                                     <i class="fa fa-circle fa-stack-2x text-"></i>
+                                     <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                                   </span>
+                           </a>
+               
+                           <a href="http://twitter.com" class="">
+                                   <span class="fa-stack fa-2x">
+                                     <i class="fa fa-circle fa-stack-2x text-"></i>
+                                     <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                   </span>
+                           </a>
+               
+                           <a href="http://linkedin.com" class="">
+                                   <span class="fa-stack fa-2x">
+                                     <i class="fa fa-circle fa-stack-2x text-"></i>
+                                     <i class="fa fa-google-plus fa-stack-1x fa-inverse"></i>
+                                   </span>
+                           </a>
+                           <div class="spacer spacer-xs"></div>
+                   </div> -->
+
+
+        </div>
+    </footer>
+
+<script src="js/jquery-1.11.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/init.js"></script>
+<script>
+  $(document).ready(function(){
+    $(".owl-carousel").owlCarousel();
+  });
+</script>
+
+</body>
+</html>
