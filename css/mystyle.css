@@ -177,6 +177,11 @@ p:not(.lead){
 .well:hover{
 
 }
+.well > h3,
+.well > h4,
+.well > h5{
+    margin-top: 0;
+}
 .faith-well{
     width: 400px;
     height: 400px;
