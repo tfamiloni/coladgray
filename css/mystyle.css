@@ -1,4 +1,4 @@
-/*  */
+/* Created by Familoni Oluwatobi */
 *{
 	/* border-radius:0 !important; */
     transition: all ease-in 0.2s;
@@ -45,7 +45,7 @@ p:not(.lead){
     /* height: 140px; */
     background:rgba(255, 255, 255, 0.1) url('../resources/img/jpg') fixed;
     background-size:cover;
-    border-color: #98a4ae;
+    border-color: #98a4ae !important;
     border-width: 3px 0 0;
     vertical-align:middle;
     border-radius:0 0 0 0;
@@ -351,6 +351,9 @@ footer .lead{
 	}
     .header {
         height: 125px;
+    }
+    .logomark{
+        width:200px;
     }
     .spacer.spacer-xs,.spacer.spacer-sm,.spacer.spacer-lg{
         padding-top:10px;
